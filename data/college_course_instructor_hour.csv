@@ -1,0 +1,359 @@
+﻿key,College ,Course ,value
+LLLLLLLL,D'Amore-McKim School of Business,ACCT1201,15
+MMMMMMMM,D'Amore-McKim School of Business,ACCT1201,26.75
+NNNNNNNN,D'Amore-McKim School of Business,ACCT1201,11.5
+OOOOOOOO,D'Amore-McKim School of Business,ACCT1201,10
+PPPPPPPP,D'Amore-McKim School of Business,ACCT1201,4.5
+QQQQQQQQ,D'Amore-McKim School of Business,ACCT1201,15.75
+RRRRRRRR,D'Amore-McKim School of Business,ACCT1201,9
+SSSSSSSS,D'Amore-McKim School of Business,ACCT1201,7
+TTTTTTTT,D'Amore-McKim School of Business,ACCT1201,27.5
+UUUUUUUU,D'Amore-McKim School of Business,ACCT1201,8
+VVVVVVVV,D'Amore-McKim School of Business,ACCT1201,1
+WWWWWWWW,D'Amore-McKim School of Business,ACCT1201,3.5
+XXXXXXXX,D'Amore-McKim School of Business,ACCT1201,32
+(blank),D'Amore-McKim School of Business,ACCT1201,2
+AAAAAAAAA,D'Amore-McKim School of Business,ACCT1209,53
+TTTTTTTT,D'Amore-McKim School of Business,ACCT1209,3
+BBBBBBBBB,D'Amore-McKim School of Business,ACCT2301,18.25
+CCCCCCCCC,D'Amore-McKim School of Business,ACCT2301,1.5
+DDDDDDDDD,D'Amore-McKim School of Business,ACCT2301,16.25
+EEEEEEEEE,D'Amore-McKim School of Business,ACCT2301,1
+FFFFFFFFF,D'Amore-McKim School of Business,ACCT2301,10.25
+GGGGGGGGG,D'Amore-McKim School of Business,ACCT2301,2
+HHHHHHHHH,D'Amore-McKim School of Business,ACCT2301,5.5
+IIIIIIIII,D'Amore-McKim School of Business,ACCT2301,18.75
+JJJJJJJJJ,D'Amore-McKim School of Business,ACCT2301,16
+(blank),D'Amore-McKim School of Business,ACCT2301,1
+KKKKKKKKK,D'Amore-McKim School of Business,ACCT3401,24.25
+LLLLLLLLL,D'Amore-McKim School of Business,ACCT4501,6.75
+OOOOOO,College of Social Sciences and Humanities,ARAB1101,9.5
+PPPPPP,College of Social Sciences and Humanities,ARAB1102,3
+OOOOOO,College of Social Sciences and Humanities,ARAB2101,1.5
+OOOOOO,College of Social Sciences and Humanities,ARAB2102,3.5
+E,"College of Arts, Media and Design",ARCH2130,1
+F,"College of Arts, Media and Design",ARTF2220,0.5
+O,College of Science,BIOL1107,151
+P,College of Science,BIOL1111,418.25
+(blank),College of Science,BIOL1111,3
+P,College of Science,BIOL1112,9.5
+P,College of Science,BIOL1113,20
+P,College of Science,BIOL1114,3.75
+Q,College of Science,BIOL2217,80.75
+R,College of Science,BIOL2218,9.75
+Q,College of Science,BIOL2218,0.5
+S,College of Science,BIOL2218,3
+T,College of Science,BIOL2299,1
+U,College of Science,BIOL2299,5.25
+V,College of Science,BIOL2299,1
+W,College of Science,BIOL2301,53.25
+X,College of Science,BIOL2301,38
+W,College of Science,BIOL2302,35
+(blank),College of Science,BIOL2302,1
+Y,College of Science,BIOL2309,1
+Z,College of Science,BIOL2309,37
+AA,College of Science,BIOL2309,1
+BB,College of Science,BIOL2309,2.75
+CC,College of Science,BIOL3405,1.75
+U,College of Science,BIOL3421,25
+DD,College of Science,BIOL3611,145.75
+DD,College of Science,BIOL3612,22.75
+EE,College of Science,BIOL3612,3
+FF,College of Science,BIOL4707,47.25
+GG,College of Science,BIOL4707,25
+HH,College of Science,CHEM1101,77.5
+II,College of Science,CHEM1151,25.25
+JJ,College of Science,CHEM1151,43.75
+KK,College of Science,CHEM1151,18.75
+LL,College of Science,CHEM1151,38.75
+(blank),College of Science,CHEM1151,1
+MM,College of Science,CHEM1161,431.5
+LL,College of Science,CHEM1161,65.5
+NN,College of Science,CHEM1162,8.25
+NN,College of Science,CHEM1211,25.25
+NN,College of Science,CHEM1212,1.75
+OO,College of Science,CHEM1214,8.75
+NN,College of Science,CHEM1215,0.5
+PP,College of Science,CHEM2311,112
+QQ,College of Science,CHEM2311,232.25
+RR,College of Science,CHEM2311,34.25
+SS,College of Science,CHEM2311,107.25
+(blank),College of Science,CHEM2311,4
+TT,College of Science,CHEM2312,35.5
+(blank),College of Science,CHEM2312,1
+QQ,College of Science,CHEM2313,157.25
+UU,College of Science,CHEM2313,38.75
+VV,College of Science,CHEM2317,19.75
+WW,College of Science,CHEM3401,0.5
+JJ,College of Science,CHEM3431,27.5
+XX,College of Science,CHEM5620,4
+YY,College of Science,CHEM5620,4.75
+QQQQQQ,College of Social Sciences and Humanities,CHNS1101,43.5
+RRRRRR,College of Social Sciences and Humanities,CHNS2101,10.75
+QQQQQQ,College of Social Sciences and Humanities,CHNS2101,17
+QQQQQQ,College of Social Sciences and Humanities,CHNS3102,0.75
+G,"College of Arts, Media and Design",COMM1231,1
+H,"College of Arts, Media and Design",COMM2301,3
+I,"College of Arts, Media and Design",COMM2301,8.75
+SSSSSS,College of Social Sciences and Humanities,CRIM1100,1.5
+TTTTTT,College of Social Sciences and Humanities,CRIM1100,2.5
+UUUUUU,College of Social Sciences and Humanities,CRIM1110,23.5
+VVVVVV,College of Social Sciences and Humanities,CRIM3700,0.75
+EEEEEEEEEEE,Khoury College of Computer Sciences,CS1100,35.5
+FFFFFFFFFFF,Khoury College of Computer Sciences,CS1800,104.75
+GGGGGGGGGGG,Khoury College of Computer Sciences,CS1800,3.5
+EEEEEEEEEEE,Khoury College of Computer Sciences,CS1802,2
+HHHHHHHHHHH,Khoury College of Computer Sciences,CS2500,4
+IIIIIIIIIII,Khoury College of Computer Sciences,CS2500,42.5
+JJJJJJJJJJJ,Khoury College of Computer Sciences,CS2500,20
+KKKKKKKKKKK,Khoury College of Computer Sciences,CS2500,17.25
+LLLLLLLLLLL,Khoury College of Computer Sciences,CS2500,12.25
+LLLLLLLLLLL,Khoury College of Computer Sciences,CS2501,4
+KKKKKKKKKKK,Khoury College of Computer Sciences,CS2510,16.5
+MMMMMMMMMMM,Khoury College of Computer Sciences,CS2800,1
+NNNNNNNNNNN,Khoury College of Computer Sciences,CS2810,9
+OOOOOOOOOOO,Khoury College of Computer Sciences,CS3000,32
+PPPPPPPPPPP,Khoury College of Computer Sciences,CS3000,44.25
+QQQQQQQQQQQ,Khoury College of Computer Sciences,CS3200,1.5
+RRRRRRRRRRR,Khoury College of Computer Sciences,CS3200,1
+SSSSSSSSSSS,Khoury College of Computer Sciences,CS3500,22.25
+TTTTTTTTTTT,Khoury College of Computer Sciences,CS3500,9
+UUUUUUUUUUU,Khoury College of Computer Sciences,DS2000,8
+VVVVVVVVVVV,Khoury College of Computer Sciences,DS2000,27.5
+WWWWWWWWWWW,Khoury College of Computer Sciences,DS3000,3
+WWWWWW,College of Social Sciences and Humanities,ECON1115,9.25
+XXXXXX,College of Social Sciences and Humanities,ECON1115,14.5
+YYYYYY,College of Social Sciences and Humanities,ECON1116,9
+WWWWWW,College of Social Sciences and Humanities,ECON2315,0.75
+ZZZZZZ,College of Social Sciences and Humanities,ECON2315,0.5
+AAAAAAA,College of Social Sciences and Humanities,ECON2315,1
+BBBBBBB,College of Social Sciences and Humanities,ECON2315,3
+ZZZZZZ,College of Social Sciences and Humanities,ECON2316,9.5
+CCCCCCC,College of Social Sciences and Humanities,ECON2316,8.5
+DDDDDDD,College of Social Sciences and Humanities,ECON2350,8
+CCCCCCC,College of Social Sciences and Humanities,ECON2350,8.25
+EEEEEEE,College of Social Sciences and Humanities,ECON2350,19
+FFFFFFF,College of Social Sciences and Humanities,ECON2560,2.5
+GGGGGGG,College of Social Sciences and Humanities,ECON2560,3
+BBBBBBB,College of Social Sciences and Humanities,ECON3916,3
+HHHHHHH,College of Social Sciences and Humanities,ENGL1140,8.75
+IIIIIII,College of Social Sciences and Humanities,ENGW1110,3
+JJJJJJJ,College of Social Sciences and Humanities,ENGW1110,8.75
+KKKKKKK,College of Social Sciences and Humanities,ENGW1110,12.25
+LLLLLLL,College of Social Sciences and Humanities,ENGW1110,24.75
+KKKKKKK,College of Social Sciences and Humanities,ENGW1111,1
+MMMMMMM,College of Social Sciences and Humanities,ENGW1111,0.5
+NNNNNNN,College of Social Sciences and Humanities,ENGW1111,0.5
+OOOOOOO,College of Social Sciences and Humanities,ENGW1111,1
+PPPPPPP,College of Social Sciences and Humanities,ENGW1111,1.75
+QQQQQQQ,College of Social Sciences and Humanities,ENGW1111,1.5
+ZZ,College of Science,ENVR1200,1
+AAA,College of Science,ENVR2500,12.25
+MMMMMMMMM,D'Amore-McKim School of Business,FINA2201,0.5
+NNNNNNNNN,D'Amore-McKim School of Business,FINA2201,3
+OOOOOOOOO,D'Amore-McKim School of Business,FINA2201,3.75
+PPPPPPPPP,D'Amore-McKim School of Business,FINA2201,34
+QQQQQQQQQ,D'Amore-McKim School of Business,FINA2201,3
+RRRRRRRRR,D'Amore-McKim School of Business,FINA2201,6.5
+SSSSSSSSS,D'Amore-McKim School of Business,FINA2201,36
+TTTTTTTTT,D'Amore-McKim School of Business,FINA2201,3.75
+(blank),D'Amore-McKim School of Business,FINA2201,1
+UUUUUUUUU,D'Amore-McKim School of Business,FINA2209,1.75
+VVVVVVVVV,D'Amore-McKim School of Business,FINA3301,1
+SSSSSSSSS,D'Amore-McKim School of Business,FINA3301,1.75
+WWWWWWWWW,D'Amore-McKim School of Business,FINA3303,3
+XXXXXXXXX,D'Amore-McKim School of Business,FINA3303,3.5
+YYYYYYYYY,D'Amore-McKim School of Business,FINA3303,0.5
+ZZZZZZZZZ,D'Amore-McKim School of Business,FINA3303,1
+RRRRRRR,College of Social Sciences and Humanities,FRNH1101,24.5
+RRRRRRR,College of Social Sciences and Humanities,FRNH1102,33.5
+SSSSSSS,College of Social Sciences and Humanities,FRNH2101,3
+SSSSSSS,College of Social Sciences and Humanities,FRNH2102,9.25
+TTTTTTT,College of Social Sciences and Humanities,FRNH3101,17.5
+(blank),College of Social Sciences and Humanities,HUSV1101,1
+AAAAAAAAAA,D'Amore-McKim School of Business,INTB1203,2.5
+BBBBBBBBBB,D'Amore-McKim School of Business,INTB1203,2
+CCCCCCCCCC,D'Amore-McKim School of Business,INTB1203,2.75
+DDDDDDDDDD,D'Amore-McKim School of Business,INTB1209,1
+UUUUUUU,College of Social Sciences and Humanities,ITLN1102,16.5
+VVVVVVV,College of Social Sciences and Humanities,JPNS1101,1
+WWWWWWW,College of Social Sciences and Humanities,JPNS1101,3.5
+WWWWWWW,College of Social Sciences and Humanities,JPNS2101,8
+XXXXXXX,College of Social Sciences and Humanities,JPNS2102,5.75
+XXXXXXX,College of Social Sciences and Humanities,JPNS3101,5.25
+BBB,College of Science,LING1150,1.75
+CCC,College of Science,LING1150,5.5
+DDD,College of Science,LING2350,2
+EEE,College of Science,MATH1120,3
+FFF,College of Science,MATH1215,16.25
+GGG,College of Science,MATH1215,1.5
+HHH,College of Science,MATH1215,24.5
+EEE,College of Science,MATH1215,15.5
+III,College of Science,MATH1231,15.25
+JJJ,College of Science,MATH1231,6.75
+KKK,College of Science,MATH1231,16.5
+LLL,College of Science,MATH1231,6
+MMM,College of Science,MATH1231,83.5
+HHH,College of Science,MATH1231,45
+NNN,College of Science,MATH1231,19
+OOO,College of Science,MATH1241,12
+PPP,College of Science,MATH1241,118.25
+QQQ,College of Science,MATH1241,6
+RRR,College of Science,MATH1241,59.5
+PPP,College of Science,MATH1242,3.5
+SSS,College of Science,MATH1251,79
+TTT,College of Science,MATH1251,21.75
+UUU,College of Science,MATH1251,15.75
+VVV,College of Science,MATH1251,35.75
+WWW,College of Science,MATH1251,23
+XXX,College of Science,MATH1251,88.75
+(blank),College of Science,MATH1251,0.5
+YYY,College of Science,MATH1252,3.75
+ZZZ,College of Science,MATH1260,1
+PPP,College of Science,MATH1340,1.75
+AAAA,College of Science,MATH1341,5.5
+BBBB,College of Science,MATH1341,18
+CCCC,College of Science,MATH1341,17.75
+YYY,College of Science,MATH1341,6
+DDDD,College of Science,MATH1341,9.75
+ZZZ,College of Science,MATH1341,24.25
+EEEE,College of Science,MATH1341,5.5
+GGG,College of Science,MATH1341,14
+FFFF,College of Science,MATH1341,40.75
+MMM,College of Science,MATH1341,15
+GGGG,College of Science,MATH1341,3.5
+HHHH,College of Science,MATH1342,7.5
+IIII,College of Science,MATH1342,11
+GGG,College of Science,MATH1342,13
+JJJJ,College of Science,MATH1342,5.5
+KKKK,College of Science,MATH1342,5.5
+GGGG,College of Science,MATH1342,16.5
+LLLL,College of Science,MATH1342,5.5
+MMMM,College of Science,MATH1365,11
+YYY,College of Science,MATH1365,1.5
+NNNN,College of Science,MATH1365,9
+LLL,College of Science,MATH1365,12.25
+OOOO,College of Science,MATH1365,33.5
+PPPP,College of Science,MATH1365,7
+QQQQ,College of Science,MATH2280,1.75
+RRRR,College of Science,MATH2280,16.25
+SSSS,College of Science,MATH2321,19.25
+TTTT,College of Science,MATH2321,16.25
+OOO,College of Science,MATH2321,4.5
+UUUU,College of Science,MATH2321,1
+VVVV,College of Science,MATH2321,1
+WWWW,College of Science,MATH2321,8.5
+XXXX,College of Science,MATH2321,10
+QQQ,College of Science,MATH2321,19.75
+YYYY,College of Science,MATH2321,9.25
+ZZZZ,College of Science,MATH2331,5.5
+JJJ,College of Science,MATH2331,1.5
+AAAAA,College of Science,MATH2331,3
+JJJJ,College of Science,MATH2331,2
+BBBBB,College of Science,MATH2341,30
+DDDD,College of Science,MATH2341,30.25
+LLL,College of Science,MATH2341,7.75
+FFFF,College of Science,MATH2341,6
+IIII,College of Science,MATH3081,10
+TTTT,College of Science,MATH3081,7.75
+WWWW,College of Science,MATH3081,1.75
+YYYY,College of Science,MATH3081,5.5
+UUUU,College of Science,MATH3150,0.5
+CCCCC,College of Science,MATH3175,1
+DDDDD,College of Science,MATH3175,1
+EEEEE,College of Science,MATH3175,1.5
+TTTT,College of Science,MATH4581,1
+N,"College of Arts, Media and Design",ME2380,3
+EEEEEEEEEE,D'Amore-McKim School of Business,MGSC2301,1.5
+FFFFFFFFFF,D'Amore-McKim School of Business,MGSC2301,3
+GGGGGGGGGG,D'Amore-McKim School of Business,MGSC2301,13.75
+HHHHHHHHHH,D'Amore-McKim School of Business,MGSC2301,0.5
+IIIIIIIIII,D'Amore-McKim School of Business,MGSC2301,0.75
+JJJJJJJJJJ,D'Amore-McKim School of Business,MGSC2301,2
+KKKKKKKKKK,D'Amore-McKim School of Business,MGSC2301,1
+LLLLLLLLLL,D'Amore-McKim School of Business,MGSC2301,3.75
+MMMMMMMMMM,D'Amore-McKim School of Business,MGSC2301,4
+NNNNNNNNNN,D'Amore-McKim School of Business,MGSC2301,7
+OOOOOOOOOO,D'Amore-McKim School of Business,MGSC2301,4
+PPPPPPPPPP,D'Amore-McKim School of Business,MGSC2301,1
+QQQQQQQQQQ,D'Amore-McKim School of Business,MISM2301,3.5
+RRRRRRRRRR,D'Amore-McKim School of Business,MISM2301,1
+SSSSSSSSSS,D'Amore-McKim School of Business,MISM2301,1
+TTTTTTTTTT,D'Amore-McKim School of Business,MISM2301,5
+UUUUUUUUUU,D'Amore-McKim School of Business,MKTG2201,3
+VVVVVVVVVV,D'Amore-McKim School of Business,MKTG2201,0.5
+WWWWWWWWWW,D'Amore-McKim School of Business,MKTG2201,2
+XXXXXXXXXX,D'Amore-McKim School of Business,MKTG2201,2
+XXXXXXXXXX,D'Amore-McKim School of Business,MKTG2209,14.5
+YYYYYYYYYY,D'Amore-McKim School of Business,MKTG2209,8.5
+J,"College of Arts, Media and Design",MSCR1220,17.25
+K,"College of Arts, Media and Design",MUSC1119,22
+L,"College of Arts, Media and Design",MUSC1201,5
+M,"College of Arts, Media and Design",MUSC1201,1
+M,"College of Arts, Media and Design",MUSC2111,9.75
+M,"College of Arts, Media and Design",MUSC2350,2
+(blank),Khoury College of Computer Sciences,Other,8.75
+YYYYYYY,College of Social Sciences and Humanities,PHIL1102,22.5
+ZZZZZZZ,College of Social Sciences and Humanities,PHIL1115,23.75
+AAAAAAAA,College of Social Sciences and Humanities,PHIL2325,2
+A,Bouvé College of Health Sciences,PHTH1260,4
+B,Bouvé College of Health Sciences,PHTH1260,2.5
+C,Bouvé College of Health Sciences,PHTH1260,1.5
+D,Bouvé College of Health Sciences,PHTH1260,1
+FFFFF,College of Science,PHYS1145,72.5
+GGGGG,College of Science,PHYS1145,34
+HHHHH,College of Science,PHYS1145,56
+IIIII,College of Science,PHYS1146,0.5
+JJJJJ,College of Science,PHYS1146,4.25
+BBBB,College of Science,PHYS1147,12.5
+KKKKK,College of Science,PHYS1147,38.25
+LLLLL,College of Science,PHYS1148,3
+MMMMM,College of Science,PHYS1148,1
+NNNNN,College of Science,PHYS1148,6.5
+BBBB,College of Science,PHYS1149,3
+OOOOO,College of Science,PHYS1151,49.25
+PPPPP,College of Science,PHYS1151,0.5
+QQQQQ,College of Science,PHYS1155,2.75
+RRRRR,College of Science,PHYS1155,5.25
+SSSSS,College of Science,PHYS1155,3
+TTTTT,College of Science,PHYS1156,0.5
+UUUUU,College of Science,PHYS1161,3.5
+VVVVV,College of Science,PHYS1162,0.5
+NNNNN,College of Science,PHYS1162,0.75
+WWWWW,College of Science,PHYS1162,1.75
+XXXXX,College of Science,PHYS2303,16.75
+YYYYY,College of Science,PHYS3602,52
+BBBBBBBB,College of Social Sciences and Humanities,POLS1150,1
+CCCCCCCC,College of Social Sciences and Humanities,POLS1155,4
+DDDDDDDD,College of Social Sciences and Humanities,POLS1160,1.75
+EEEEEEEE,College of Social Sciences and Humanities,POLS1160,5.5
+FFFFFFFF,College of Social Sciences and Humanities,PORT1101,1
+ZZZZZ,College of Science,PSYC1101,5
+AAAAAA,College of Science,PSYC1101,3
+BBBBBB,College of Science,PSYC1101,22.5
+CCCCCC,College of Science,PSYC1101,5
+DDDDDD,College of Science,PSYC1101,2.5
+EEEEEE,College of Science,PSYC2320,2
+FFFFFF,College of Science,PSYC2320,1.5
+GGGGGG,College of Science,PSYC2320,6.5
+HHHHHH,College of Science,PSYC3200,1
+IIIIII,College of Science,PSYC3400,9.75
+JJJJJJ,College of Science,PSYC3404,1
+KKKKKK,College of Science,PSYC3406,1
+LLLLLL,College of Science,PSYC3406,0
+MMMMMM,College of Science,PSYC3458,4.75
+DDDDDD,College of Science,PSYC3458,6.75
+NNNNNN,College of Science,PSYC3466,6
+EEEEEE,College of Science,PSYC3466,3.5
+MMMMMM,College of Science,PSYC4570,2
+GGGGGGGG,College of Social Sciences and Humanities,RSSN1101,0.5
+HHHHHHHH,College of Social Sciences and Humanities,RSSN2101,11.75
+ZZZZZZZZZZ,D'Amore-McKim School of Business,SCHM2301,6.5
+AAAAAAAAAAA,D'Amore-McKim School of Business,SCHM2301,5
+BBBBBBBBBBB,D'Amore-McKim School of Business,SCHM2301,0.75
+CCCCCCCCCCC,D'Amore-McKim School of Business,SCHM2301,0.5
+DDDDDDDDDDD,D'Amore-McKim School of Business,SCHM2301,18.5
+IIIIIIII,College of Social Sciences and Humanities,SOCL1101,2
+JJJJJJJJ,College of Social Sciences and Humanities,SOCL1101,1
+FFFFFFFF,College of Social Sciences and Humanities,SPNS1102,33
+KKKKKKKK,College of Social Sciences and Humanities,SPNS3102,2

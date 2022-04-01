@@ -1,0 +1,2150 @@
+[
+  {
+    "key": "LLLLLLLL",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 15
+  },
+  {
+    "key": "MMMMMMMM",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 26.75
+  },
+  {
+    "key": "NNNNNNNN",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 11.5
+  },
+  {
+    "key": "OOOOOOOO",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 10
+  },
+  {
+    "key": "PPPPPPPP",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 4.5
+  },
+  {
+    "key": "QQQQQQQQ",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 15.75
+  },
+  {
+    "key": "RRRRRRRR",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 9
+  },
+  {
+    "key": "SSSSSSSS",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 7
+  },
+  {
+    "key": "TTTTTTTT",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 27.5
+  },
+  {
+    "key": "UUUUUUUU",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 8
+  },
+  {
+    "key": "VVVVVVVV",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 1
+  },
+  {
+    "key": "WWWWWWWW",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 3.5
+  },
+  {
+    "key": "XXXXXXXX",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 32
+  },
+  {
+    "key": "(blank)",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1201",
+    "value": 2
+  },
+  {
+    "key": "AAAAAAAAA",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1209",
+    "value": 53
+  },
+  {
+    "key": "TTTTTTTT",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT1209",
+    "value": 3
+  },
+  {
+    "key": "BBBBBBBBB",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 18.25
+  },
+  {
+    "key": "CCCCCCCCC",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 1.5
+  },
+  {
+    "key": "DDDDDDDDD",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 16.25
+  },
+  {
+    "key": "EEEEEEEEE",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 1
+  },
+  {
+    "key": "FFFFFFFFF",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 10.25
+  },
+  {
+    "key": "GGGGGGGGG",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 2
+  },
+  {
+    "key": "HHHHHHHHH",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 5.5
+  },
+  {
+    "key": "IIIIIIIII",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 18.75
+  },
+  {
+    "key": "JJJJJJJJJ",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 16
+  },
+  {
+    "key": "(blank)",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT2301",
+    "value": 1
+  },
+  {
+    "key": "KKKKKKKKK",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT3401",
+    "value": 24.25
+  },
+  {
+    "key": "LLLLLLLLL",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "ACCT4501",
+    "value": 6.75
+  },
+  {
+    "key": "OOOOOO",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ARAB1101",
+    "value": 9.5
+  },
+  {
+    "key": "PPPPPP",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ARAB1102",
+    "value": 3
+  },
+  {
+    "key": "OOOOOO",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ARAB2101",
+    "value": 1.5
+  },
+  {
+    "key": "OOOOOO",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ARAB2102",
+    "value": 3.5
+  },
+  {
+    "key": "E",
+    "College": "College of Arts, Media and Design",
+    "Course": "ARCH2130",
+    "value": 1
+  },
+  {
+    "key": "F",
+    "College": "College of Arts, Media and Design",
+    "Course": "ARTF2220",
+    "value": 0.5
+  },
+  {
+    "key": "O",
+    "College": "College of Science",
+    "Course": "BIOL1107",
+    "value": 151
+  },
+  {
+    "key": "P",
+    "College": "College of Science",
+    "Course": "BIOL1111",
+    "value": 418.25
+  },
+  {
+    "key": "(blank)",
+    "College": "College of Science",
+    "Course": "BIOL1111",
+    "value": 3
+  },
+  {
+    "key": "P",
+    "College": "College of Science",
+    "Course": "BIOL1112",
+    "value": 9.5
+  },
+  {
+    "key": "P",
+    "College": "College of Science",
+    "Course": "BIOL1113",
+    "value": 20
+  },
+  {
+    "key": "P",
+    "College": "College of Science",
+    "Course": "BIOL1114",
+    "value": 3.75
+  },
+  {
+    "key": "Q",
+    "College": "College of Science",
+    "Course": "BIOL2217",
+    "value": 80.75
+  },
+  {
+    "key": "R",
+    "College": "College of Science",
+    "Course": "BIOL2218",
+    "value": 9.75
+  },
+  {
+    "key": "Q",
+    "College": "College of Science",
+    "Course": "BIOL2218",
+    "value": 0.5
+  },
+  {
+    "key": "S",
+    "College": "College of Science",
+    "Course": "BIOL2218",
+    "value": 3
+  },
+  {
+    "key": "T",
+    "College": "College of Science",
+    "Course": "BIOL2299",
+    "value": 1
+  },
+  {
+    "key": "U",
+    "College": "College of Science",
+    "Course": "BIOL2299",
+    "value": 5.25
+  },
+  {
+    "key": "V",
+    "College": "College of Science",
+    "Course": "BIOL2299",
+    "value": 1
+  },
+  {
+    "key": "W",
+    "College": "College of Science",
+    "Course": "BIOL2301",
+    "value": 53.25
+  },
+  {
+    "key": "X",
+    "College": "College of Science",
+    "Course": "BIOL2301",
+    "value": 38
+  },
+  {
+    "key": "W",
+    "College": "College of Science",
+    "Course": "BIOL2302",
+    "value": 35
+  },
+  {
+    "key": "(blank)",
+    "College": "College of Science",
+    "Course": "BIOL2302",
+    "value": 1
+  },
+  {
+    "key": "Y",
+    "College": "College of Science",
+    "Course": "BIOL2309",
+    "value": 1
+  },
+  {
+    "key": "Z",
+    "College": "College of Science",
+    "Course": "BIOL2309",
+    "value": 37
+  },
+  {
+    "key": "AA",
+    "College": "College of Science",
+    "Course": "BIOL2309",
+    "value": 1
+  },
+  {
+    "key": "BB",
+    "College": "College of Science",
+    "Course": "BIOL2309",
+    "value": 2.75
+  },
+  {
+    "key": "CC",
+    "College": "College of Science",
+    "Course": "BIOL3405",
+    "value": 1.75
+  },
+  {
+    "key": "U",
+    "College": "College of Science",
+    "Course": "BIOL3421",
+    "value": 25
+  },
+  {
+    "key": "DD",
+    "College": "College of Science",
+    "Course": "BIOL3611",
+    "value": 145.75
+  },
+  {
+    "key": "DD",
+    "College": "College of Science",
+    "Course": "BIOL3612",
+    "value": 22.75
+  },
+  {
+    "key": "EE",
+    "College": "College of Science",
+    "Course": "BIOL3612",
+    "value": 3
+  },
+  {
+    "key": "FF",
+    "College": "College of Science",
+    "Course": "BIOL4707",
+    "value": 47.25
+  },
+  {
+    "key": "GG",
+    "College": "College of Science",
+    "Course": "BIOL4707",
+    "value": 25
+  },
+  {
+    "key": "HH",
+    "College": "College of Science",
+    "Course": "CHEM1101",
+    "value": 77.5
+  },
+  {
+    "key": "II",
+    "College": "College of Science",
+    "Course": "CHEM1151",
+    "value": 25.25
+  },
+  {
+    "key": "JJ",
+    "College": "College of Science",
+    "Course": "CHEM1151",
+    "value": 43.75
+  },
+  {
+    "key": "KK",
+    "College": "College of Science",
+    "Course": "CHEM1151",
+    "value": 18.75
+  },
+  {
+    "key": "LL",
+    "College": "College of Science",
+    "Course": "CHEM1151",
+    "value": 38.75
+  },
+  {
+    "key": "(blank)",
+    "College": "College of Science",
+    "Course": "CHEM1151",
+    "value": 1
+  },
+  {
+    "key": "MM",
+    "College": "College of Science",
+    "Course": "CHEM1161",
+    "value": 431.5
+  },
+  {
+    "key": "LL",
+    "College": "College of Science",
+    "Course": "CHEM1161",
+    "value": 65.5
+  },
+  {
+    "key": "NN",
+    "College": "College of Science",
+    "Course": "CHEM1162",
+    "value": 8.25
+  },
+  {
+    "key": "NN",
+    "College": "College of Science",
+    "Course": "CHEM1211",
+    "value": 25.25
+  },
+  {
+    "key": "NN",
+    "College": "College of Science",
+    "Course": "CHEM1212",
+    "value": 1.75
+  },
+  {
+    "key": "OO",
+    "College": "College of Science",
+    "Course": "CHEM1214",
+    "value": 8.75
+  },
+  {
+    "key": "NN",
+    "College": "College of Science",
+    "Course": "CHEM1215",
+    "value": 0.5
+  },
+  {
+    "key": "PP",
+    "College": "College of Science",
+    "Course": "CHEM2311",
+    "value": 112
+  },
+  {
+    "key": "QQ",
+    "College": "College of Science",
+    "Course": "CHEM2311",
+    "value": 232.25
+  },
+  {
+    "key": "RR",
+    "College": "College of Science",
+    "Course": "CHEM2311",
+    "value": 34.25
+  },
+  {
+    "key": "SS",
+    "College": "College of Science",
+    "Course": "CHEM2311",
+    "value": 107.25
+  },
+  {
+    "key": "(blank)",
+    "College": "College of Science",
+    "Course": "CHEM2311",
+    "value": 4
+  },
+  {
+    "key": "TT",
+    "College": "College of Science",
+    "Course": "CHEM2312",
+    "value": 35.5
+  },
+  {
+    "key": "(blank)",
+    "College": "College of Science",
+    "Course": "CHEM2312",
+    "value": 1
+  },
+  {
+    "key": "QQ",
+    "College": "College of Science",
+    "Course": "CHEM2313",
+    "value": 157.25
+  },
+  {
+    "key": "UU",
+    "College": "College of Science",
+    "Course": "CHEM2313",
+    "value": 38.75
+  },
+  {
+    "key": "VV",
+    "College": "College of Science",
+    "Course": "CHEM2317",
+    "value": 19.75
+  },
+  {
+    "key": "WW",
+    "College": "College of Science",
+    "Course": "CHEM3401",
+    "value": 0.5
+  },
+  {
+    "key": "JJ",
+    "College": "College of Science",
+    "Course": "CHEM3431",
+    "value": 27.5
+  },
+  {
+    "key": "XX",
+    "College": "College of Science",
+    "Course": "CHEM5620",
+    "value": 4
+  },
+  {
+    "key": "YY",
+    "College": "College of Science",
+    "Course": "CHEM5620",
+    "value": 4.75
+  },
+  {
+    "key": "QQQQQQ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CHNS1101",
+    "value": 43.5
+  },
+  {
+    "key": "RRRRRR",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CHNS2101",
+    "value": 10.75
+  },
+  {
+    "key": "QQQQQQ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CHNS2101",
+    "value": 17
+  },
+  {
+    "key": "QQQQQQ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CHNS3102",
+    "value": 0.75
+  },
+  {
+    "key": "G",
+    "College": "College of Arts, Media and Design",
+    "Course": "COMM1231",
+    "value": 1
+  },
+  {
+    "key": "H",
+    "College": "College of Arts, Media and Design",
+    "Course": "COMM2301",
+    "value": 3
+  },
+  {
+    "key": "I",
+    "College": "College of Arts, Media and Design",
+    "Course": "COMM2301",
+    "value": 8.75
+  },
+  {
+    "key": "SSSSSS",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CRIM1100",
+    "value": 1.5
+  },
+  {
+    "key": "TTTTTT",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CRIM1100",
+    "value": 2.5
+  },
+  {
+    "key": "UUUUUU",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CRIM1110",
+    "value": 23.5
+  },
+  {
+    "key": "VVVVVV",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "CRIM3700",
+    "value": 0.75
+  },
+  {
+    "key": "EEEEEEEEEEE",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS1100",
+    "value": 35.5
+  },
+  {
+    "key": "FFFFFFFFFFF",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS1800",
+    "value": 104.75
+  },
+  {
+    "key": "GGGGGGGGGGG",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS1800",
+    "value": 3.5
+  },
+  {
+    "key": "EEEEEEEEEEE",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS1802",
+    "value": 2
+  },
+  {
+    "key": "HHHHHHHHHHH",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2500",
+    "value": 4
+  },
+  {
+    "key": "IIIIIIIIIII",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2500",
+    "value": 42.5
+  },
+  {
+    "key": "JJJJJJJJJJJ",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2500",
+    "value": 20
+  },
+  {
+    "key": "KKKKKKKKKKK",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2500",
+    "value": 17.25
+  },
+  {
+    "key": "LLLLLLLLLLL",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2500",
+    "value": 12.25
+  },
+  {
+    "key": "LLLLLLLLLLL",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2501",
+    "value": 4
+  },
+  {
+    "key": "KKKKKKKKKKK",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2510",
+    "value": 16.5
+  },
+  {
+    "key": "MMMMMMMMMMM",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2800",
+    "value": 1
+  },
+  {
+    "key": "NNNNNNNNNNN",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS2810",
+    "value": 9
+  },
+  {
+    "key": "OOOOOOOOOOO",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS3000",
+    "value": 32
+  },
+  {
+    "key": "PPPPPPPPPPP",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS3000",
+    "value": 44.25
+  },
+  {
+    "key": "QQQQQQQQQQQ",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS3200",
+    "value": 1.5
+  },
+  {
+    "key": "RRRRRRRRRRR",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS3200",
+    "value": 1
+  },
+  {
+    "key": "SSSSSSSSSSS",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS3500",
+    "value": 22.25
+  },
+  {
+    "key": "TTTTTTTTTTT",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "CS3500",
+    "value": 9
+  },
+  {
+    "key": "UUUUUUUUUUU",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "DS2000",
+    "value": 8
+  },
+  {
+    "key": "VVVVVVVVVVV",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "DS2000",
+    "value": 27.5
+  },
+  {
+    "key": "WWWWWWWWWWW",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "DS3000",
+    "value": 3
+  },
+  {
+    "key": "WWWWWW",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON1115",
+    "value": 9.25
+  },
+  {
+    "key": "XXXXXX",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON1115",
+    "value": 14.5
+  },
+  {
+    "key": "YYYYYY",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON1116",
+    "value": 9
+  },
+  {
+    "key": "WWWWWW",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2315",
+    "value": 0.75
+  },
+  {
+    "key": "ZZZZZZ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2315",
+    "value": 0.5
+  },
+  {
+    "key": "AAAAAAA",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2315",
+    "value": 1
+  },
+  {
+    "key": "BBBBBBB",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2315",
+    "value": 3
+  },
+  {
+    "key": "ZZZZZZ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2316",
+    "value": 9.5
+  },
+  {
+    "key": "CCCCCCC",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2316",
+    "value": 8.5
+  },
+  {
+    "key": "DDDDDDD",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2350",
+    "value": 8
+  },
+  {
+    "key": "CCCCCCC",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2350",
+    "value": 8.25
+  },
+  {
+    "key": "EEEEEEE",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2350",
+    "value": 19
+  },
+  {
+    "key": "FFFFFFF",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2560",
+    "value": 2.5
+  },
+  {
+    "key": "GGGGGGG",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON2560",
+    "value": 3
+  },
+  {
+    "key": "BBBBBBB",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ECON3916",
+    "value": 3
+  },
+  {
+    "key": "HHHHHHH",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGL1140",
+    "value": 8.75
+  },
+  {
+    "key": "IIIIIII",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1110",
+    "value": 3
+  },
+  {
+    "key": "JJJJJJJ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1110",
+    "value": 8.75
+  },
+  {
+    "key": "KKKKKKK",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1110",
+    "value": 12.25
+  },
+  {
+    "key": "LLLLLLL",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1110",
+    "value": 24.75
+  },
+  {
+    "key": "KKKKKKK",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1111",
+    "value": 1
+  },
+  {
+    "key": "MMMMMMM",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1111",
+    "value": 0.5
+  },
+  {
+    "key": "NNNNNNN",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1111",
+    "value": 0.5
+  },
+  {
+    "key": "OOOOOOO",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1111",
+    "value": 1
+  },
+  {
+    "key": "PPPPPPP",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1111",
+    "value": 1.75
+  },
+  {
+    "key": "QQQQQQQ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ENGW1111",
+    "value": 1.5
+  },
+  {
+    "key": "ZZ",
+    "College": "College of Science",
+    "Course": "ENVR1200",
+    "value": 1
+  },
+  {
+    "key": "AAA",
+    "College": "College of Science",
+    "Course": "ENVR2500",
+    "value": 12.25
+  },
+  {
+    "key": "MMMMMMMMM",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 0.5
+  },
+  {
+    "key": "NNNNNNNNN",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 3
+  },
+  {
+    "key": "OOOOOOOOO",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 3.75
+  },
+  {
+    "key": "PPPPPPPPP",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 34
+  },
+  {
+    "key": "QQQQQQQQQ",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 3
+  },
+  {
+    "key": "RRRRRRRRR",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 6.5
+  },
+  {
+    "key": "SSSSSSSSS",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 36
+  },
+  {
+    "key": "TTTTTTTTT",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 3.75
+  },
+  {
+    "key": "(blank)",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2201",
+    "value": 1
+  },
+  {
+    "key": "UUUUUUUUU",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA2209",
+    "value": 1.75
+  },
+  {
+    "key": "VVVVVVVVV",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA3301",
+    "value": 1
+  },
+  {
+    "key": "SSSSSSSSS",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA3301",
+    "value": 1.75
+  },
+  {
+    "key": "WWWWWWWWW",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA3303",
+    "value": 3
+  },
+  {
+    "key": "XXXXXXXXX",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA3303",
+    "value": 3.5
+  },
+  {
+    "key": "YYYYYYYYY",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA3303",
+    "value": 0.5
+  },
+  {
+    "key": "ZZZZZZZZZ",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "FINA3303",
+    "value": 1
+  },
+  {
+    "key": "RRRRRRR",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "FRNH1101",
+    "value": 24.5
+  },
+  {
+    "key": "RRRRRRR",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "FRNH1102",
+    "value": 33.5
+  },
+  {
+    "key": "SSSSSSS",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "FRNH2101",
+    "value": 3
+  },
+  {
+    "key": "SSSSSSS",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "FRNH2102",
+    "value": 9.25
+  },
+  {
+    "key": "TTTTTTT",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "FRNH3101",
+    "value": 17.5
+  },
+  {
+    "key": "(blank)",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "HUSV1101",
+    "value": 1
+  },
+  {
+    "key": "AAAAAAAAAA",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "INTB1203",
+    "value": 2.5
+  },
+  {
+    "key": "BBBBBBBBBB",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "INTB1203",
+    "value": 2
+  },
+  {
+    "key": "CCCCCCCCCC",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "INTB1203",
+    "value": 2.75
+  },
+  {
+    "key": "DDDDDDDDDD",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "INTB1209",
+    "value": 1
+  },
+  {
+    "key": "UUUUUUU",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "ITLN1102",
+    "value": 16.5
+  },
+  {
+    "key": "VVVVVVV",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "JPNS1101",
+    "value": 1
+  },
+  {
+    "key": "WWWWWWW",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "JPNS1101",
+    "value": 3.5
+  },
+  {
+    "key": "WWWWWWW",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "JPNS2101",
+    "value": 8
+  },
+  {
+    "key": "XXXXXXX",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "JPNS2102",
+    "value": 5.75
+  },
+  {
+    "key": "XXXXXXX",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "JPNS3101",
+    "value": 5.25
+  },
+  {
+    "key": "BBB",
+    "College": "College of Science",
+    "Course": "LING1150",
+    "value": 1.75
+  },
+  {
+    "key": "CCC",
+    "College": "College of Science",
+    "Course": "LING1150",
+    "value": 5.5
+  },
+  {
+    "key": "DDD",
+    "College": "College of Science",
+    "Course": "LING2350",
+    "value": 2
+  },
+  {
+    "key": "EEE",
+    "College": "College of Science",
+    "Course": "MATH1120",
+    "value": 3
+  },
+  {
+    "key": "FFF",
+    "College": "College of Science",
+    "Course": "MATH1215",
+    "value": 16.25
+  },
+  {
+    "key": "GGG",
+    "College": "College of Science",
+    "Course": "MATH1215",
+    "value": 1.5
+  },
+  {
+    "key": "HHH",
+    "College": "College of Science",
+    "Course": "MATH1215",
+    "value": 24.5
+  },
+  {
+    "key": "EEE",
+    "College": "College of Science",
+    "Course": "MATH1215",
+    "value": 15.5
+  },
+  {
+    "key": "III",
+    "College": "College of Science",
+    "Course": "MATH1231",
+    "value": 15.25
+  },
+  {
+    "key": "JJJ",
+    "College": "College of Science",
+    "Course": "MATH1231",
+    "value": 6.75
+  },
+  {
+    "key": "KKK",
+    "College": "College of Science",
+    "Course": "MATH1231",
+    "value": 16.5
+  },
+  {
+    "key": "LLL",
+    "College": "College of Science",
+    "Course": "MATH1231",
+    "value": 6
+  },
+  {
+    "key": "MMM",
+    "College": "College of Science",
+    "Course": "MATH1231",
+    "value": 83.5
+  },
+  {
+    "key": "HHH",
+    "College": "College of Science",
+    "Course": "MATH1231",
+    "value": 45
+  },
+  {
+    "key": "NNN",
+    "College": "College of Science",
+    "Course": "MATH1231",
+    "value": 19
+  },
+  {
+    "key": "OOO",
+    "College": "College of Science",
+    "Course": "MATH1241",
+    "value": 12
+  },
+  {
+    "key": "PPP",
+    "College": "College of Science",
+    "Course": "MATH1241",
+    "value": 118.25
+  },
+  {
+    "key": "QQQ",
+    "College": "College of Science",
+    "Course": "MATH1241",
+    "value": 6
+  },
+  {
+    "key": "RRR",
+    "College": "College of Science",
+    "Course": "MATH1241",
+    "value": 59.5
+  },
+  {
+    "key": "PPP",
+    "College": "College of Science",
+    "Course": "MATH1242",
+    "value": 3.5
+  },
+  {
+    "key": "SSS",
+    "College": "College of Science",
+    "Course": "MATH1251",
+    "value": 79
+  },
+  {
+    "key": "TTT",
+    "College": "College of Science",
+    "Course": "MATH1251",
+    "value": 21.75
+  },
+  {
+    "key": "UUU",
+    "College": "College of Science",
+    "Course": "MATH1251",
+    "value": 15.75
+  },
+  {
+    "key": "VVV",
+    "College": "College of Science",
+    "Course": "MATH1251",
+    "value": 35.75
+  },
+  {
+    "key": "WWW",
+    "College": "College of Science",
+    "Course": "MATH1251",
+    "value": 23
+  },
+  {
+    "key": "XXX",
+    "College": "College of Science",
+    "Course": "MATH1251",
+    "value": 88.75
+  },
+  {
+    "key": "(blank)",
+    "College": "College of Science",
+    "Course": "MATH1251",
+    "value": 0.5
+  },
+  {
+    "key": "YYY",
+    "College": "College of Science",
+    "Course": "MATH1252",
+    "value": 3.75
+  },
+  {
+    "key": "ZZZ",
+    "College": "College of Science",
+    "Course": "MATH1260",
+    "value": 1
+  },
+  {
+    "key": "PPP",
+    "College": "College of Science",
+    "Course": "MATH1340",
+    "value": 1.75
+  },
+  {
+    "key": "AAAA",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 5.5
+  },
+  {
+    "key": "BBBB",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 18
+  },
+  {
+    "key": "CCCC",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 17.75
+  },
+  {
+    "key": "YYY",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 6
+  },
+  {
+    "key": "DDDD",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 9.75
+  },
+  {
+    "key": "ZZZ",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 24.25
+  },
+  {
+    "key": "EEEE",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 5.5
+  },
+  {
+    "key": "GGG",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 14
+  },
+  {
+    "key": "FFFF",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 40.75
+  },
+  {
+    "key": "MMM",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 15
+  },
+  {
+    "key": "GGGG",
+    "College": "College of Science",
+    "Course": "MATH1341",
+    "value": 3.5
+  },
+  {
+    "key": "HHHH",
+    "College": "College of Science",
+    "Course": "MATH1342",
+    "value": 7.5
+  },
+  {
+    "key": "IIII",
+    "College": "College of Science",
+    "Course": "MATH1342",
+    "value": 11
+  },
+  {
+    "key": "GGG",
+    "College": "College of Science",
+    "Course": "MATH1342",
+    "value": 13
+  },
+  {
+    "key": "JJJJ",
+    "College": "College of Science",
+    "Course": "MATH1342",
+    "value": 5.5
+  },
+  {
+    "key": "KKKK",
+    "College": "College of Science",
+    "Course": "MATH1342",
+    "value": 5.5
+  },
+  {
+    "key": "GGGG",
+    "College": "College of Science",
+    "Course": "MATH1342",
+    "value": 16.5
+  },
+  {
+    "key": "LLLL",
+    "College": "College of Science",
+    "Course": "MATH1342",
+    "value": 5.5
+  },
+  {
+    "key": "MMMM",
+    "College": "College of Science",
+    "Course": "MATH1365",
+    "value": 11
+  },
+  {
+    "key": "YYY",
+    "College": "College of Science",
+    "Course": "MATH1365",
+    "value": 1.5
+  },
+  {
+    "key": "NNNN",
+    "College": "College of Science",
+    "Course": "MATH1365",
+    "value": 9
+  },
+  {
+    "key": "LLL",
+    "College": "College of Science",
+    "Course": "MATH1365",
+    "value": 12.25
+  },
+  {
+    "key": "OOOO",
+    "College": "College of Science",
+    "Course": "MATH1365",
+    "value": 33.5
+  },
+  {
+    "key": "PPPP",
+    "College": "College of Science",
+    "Course": "MATH1365",
+    "value": 7
+  },
+  {
+    "key": "QQQQ",
+    "College": "College of Science",
+    "Course": "MATH2280",
+    "value": 1.75
+  },
+  {
+    "key": "RRRR",
+    "College": "College of Science",
+    "Course": "MATH2280",
+    "value": 16.25
+  },
+  {
+    "key": "SSSS",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 19.25
+  },
+  {
+    "key": "TTTT",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 16.25
+  },
+  {
+    "key": "OOO",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 4.5
+  },
+  {
+    "key": "UUUU",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 1
+  },
+  {
+    "key": "VVVV",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 1
+  },
+  {
+    "key": "WWWW",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 8.5
+  },
+  {
+    "key": "XXXX",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 10
+  },
+  {
+    "key": "QQQ",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 19.75
+  },
+  {
+    "key": "YYYY",
+    "College": "College of Science",
+    "Course": "MATH2321",
+    "value": 9.25
+  },
+  {
+    "key": "ZZZZ",
+    "College": "College of Science",
+    "Course": "MATH2331",
+    "value": 5.5
+  },
+  {
+    "key": "JJJ",
+    "College": "College of Science",
+    "Course": "MATH2331",
+    "value": 1.5
+  },
+  {
+    "key": "AAAAA",
+    "College": "College of Science",
+    "Course": "MATH2331",
+    "value": 3
+  },
+  {
+    "key": "JJJJ",
+    "College": "College of Science",
+    "Course": "MATH2331",
+    "value": 2
+  },
+  {
+    "key": "BBBBB",
+    "College": "College of Science",
+    "Course": "MATH2341",
+    "value": 30
+  },
+  {
+    "key": "DDDD",
+    "College": "College of Science",
+    "Course": "MATH2341",
+    "value": 30.25
+  },
+  {
+    "key": "LLL",
+    "College": "College of Science",
+    "Course": "MATH2341",
+    "value": 7.75
+  },
+  {
+    "key": "FFFF",
+    "College": "College of Science",
+    "Course": "MATH2341",
+    "value": 6
+  },
+  {
+    "key": "IIII",
+    "College": "College of Science",
+    "Course": "MATH3081",
+    "value": 10
+  },
+  {
+    "key": "TTTT",
+    "College": "College of Science",
+    "Course": "MATH3081",
+    "value": 7.75
+  },
+  {
+    "key": "WWWW",
+    "College": "College of Science",
+    "Course": "MATH3081",
+    "value": 1.75
+  },
+  {
+    "key": "YYYY",
+    "College": "College of Science",
+    "Course": "MATH3081",
+    "value": 5.5
+  },
+  {
+    "key": "UUUU",
+    "College": "College of Science",
+    "Course": "MATH3150",
+    "value": 0.5
+  },
+  {
+    "key": "CCCCC",
+    "College": "College of Science",
+    "Course": "MATH3175",
+    "value": 1
+  },
+  {
+    "key": "DDDDD",
+    "College": "College of Science",
+    "Course": "MATH3175",
+    "value": 1
+  },
+  {
+    "key": "EEEEE",
+    "College": "College of Science",
+    "Course": "MATH3175",
+    "value": 1.5
+  },
+  {
+    "key": "TTTT",
+    "College": "College of Science",
+    "Course": "MATH4581",
+    "value": 1
+  },
+  {
+    "key": "N",
+    "College": "College of Arts, Media and Design",
+    "Course": "ME2380",
+    "value": 3
+  },
+  {
+    "key": "EEEEEEEEEE",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 1.5
+  },
+  {
+    "key": "FFFFFFFFFF",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 3
+  },
+  {
+    "key": "GGGGGGGGGG",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 13.75
+  },
+  {
+    "key": "HHHHHHHHHH",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 0.5
+  },
+  {
+    "key": "IIIIIIIIII",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 0.75
+  },
+  {
+    "key": "JJJJJJJJJJ",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 2
+  },
+  {
+    "key": "KKKKKKKKKK",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 1
+  },
+  {
+    "key": "LLLLLLLLLL",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 3.75
+  },
+  {
+    "key": "MMMMMMMMMM",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 4
+  },
+  {
+    "key": "NNNNNNNNNN",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 7
+  },
+  {
+    "key": "OOOOOOOOOO",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 4
+  },
+  {
+    "key": "PPPPPPPPPP",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MGSC2301",
+    "value": 1
+  },
+  {
+    "key": "QQQQQQQQQQ",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MISM2301",
+    "value": 3.5
+  },
+  {
+    "key": "RRRRRRRRRR",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MISM2301",
+    "value": 1
+  },
+  {
+    "key": "SSSSSSSSSS",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MISM2301",
+    "value": 1
+  },
+  {
+    "key": "TTTTTTTTTT",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MISM2301",
+    "value": 5
+  },
+  {
+    "key": "UUUUUUUUUU",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MKTG2201",
+    "value": 3
+  },
+  {
+    "key": "VVVVVVVVVV",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MKTG2201",
+    "value": 0.5
+  },
+  {
+    "key": "WWWWWWWWWW",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MKTG2201",
+    "value": 2
+  },
+  {
+    "key": "XXXXXXXXXX",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MKTG2201",
+    "value": 2
+  },
+  {
+    "key": "XXXXXXXXXX",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MKTG2209",
+    "value": 14.5
+  },
+  {
+    "key": "YYYYYYYYYY",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "MKTG2209",
+    "value": 8.5
+  },
+  {
+    "key": "J",
+    "College": "College of Arts, Media and Design",
+    "Course": "MSCR1220",
+    "value": 17.25
+  },
+  {
+    "key": "K",
+    "College": "College of Arts, Media and Design",
+    "Course": "MUSC1119",
+    "value": 22
+  },
+  {
+    "key": "L",
+    "College": "College of Arts, Media and Design",
+    "Course": "MUSC1201",
+    "value": 5
+  },
+  {
+    "key": "M",
+    "College": "College of Arts, Media and Design",
+    "Course": "MUSC1201",
+    "value": 1
+  },
+  {
+    "key": "M",
+    "College": "College of Arts, Media and Design",
+    "Course": "MUSC2111",
+    "value": 9.75
+  },
+  {
+    "key": "M",
+    "College": "College of Arts, Media and Design",
+    "Course": "MUSC2350",
+    "value": 2
+  },
+  {
+    "key": "(blank)",
+    "College": "Khoury College of Computer Sciences",
+    "Course": "Other",
+    "value": 8.75
+  },
+  {
+    "key": "YYYYYYY",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "PHIL1102",
+    "value": 22.5
+  },
+  {
+    "key": "ZZZZZZZ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "PHIL1115",
+    "value": 23.75
+  },
+  {
+    "key": "AAAAAAAA",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "PHIL2325",
+    "value": 2
+  },
+  {
+    "key": "A",
+    "College": "Bouvé College of Health Sciences",
+    "Course": "PHTH1260",
+    "value": 4
+  },
+  {
+    "key": "B",
+    "College": "Bouvé College of Health Sciences",
+    "Course": "PHTH1260",
+    "value": 2.5
+  },
+  {
+    "key": "C",
+    "College": "Bouvé College of Health Sciences",
+    "Course": "PHTH1260",
+    "value": 1.5
+  },
+  {
+    "key": "D",
+    "College": "Bouvé College of Health Sciences",
+    "Course": "PHTH1260",
+    "value": 1
+  },
+  {
+    "key": "FFFFF",
+    "College": "College of Science",
+    "Course": "PHYS1145",
+    "value": 72.5
+  },
+  {
+    "key": "GGGGG",
+    "College": "College of Science",
+    "Course": "PHYS1145",
+    "value": 34
+  },
+  {
+    "key": "HHHHH",
+    "College": "College of Science",
+    "Course": "PHYS1145",
+    "value": 56
+  },
+  {
+    "key": "IIIII",
+    "College": "College of Science",
+    "Course": "PHYS1146",
+    "value": 0.5
+  },
+  {
+    "key": "JJJJJ",
+    "College": "College of Science",
+    "Course": "PHYS1146",
+    "value": 4.25
+  },
+  {
+    "key": "BBBB",
+    "College": "College of Science",
+    "Course": "PHYS1147",
+    "value": 12.5
+  },
+  {
+    "key": "KKKKK",
+    "College": "College of Science",
+    "Course": "PHYS1147",
+    "value": 38.25
+  },
+  {
+    "key": "LLLLL",
+    "College": "College of Science",
+    "Course": "PHYS1148",
+    "value": 3
+  },
+  {
+    "key": "MMMMM",
+    "College": "College of Science",
+    "Course": "PHYS1148",
+    "value": 1
+  },
+  {
+    "key": "NNNNN",
+    "College": "College of Science",
+    "Course": "PHYS1148",
+    "value": 6.5
+  },
+  {
+    "key": "BBBB",
+    "College": "College of Science",
+    "Course": "PHYS1149",
+    "value": 3
+  },
+  {
+    "key": "OOOOO",
+    "College": "College of Science",
+    "Course": "PHYS1151",
+    "value": 49.25
+  },
+  {
+    "key": "PPPPP",
+    "College": "College of Science",
+    "Course": "PHYS1151",
+    "value": 0.5
+  },
+  {
+    "key": "QQQQQ",
+    "College": "College of Science",
+    "Course": "PHYS1155",
+    "value": 2.75
+  },
+  {
+    "key": "RRRRR",
+    "College": "College of Science",
+    "Course": "PHYS1155",
+    "value": 5.25
+  },
+  {
+    "key": "SSSSS",
+    "College": "College of Science",
+    "Course": "PHYS1155",
+    "value": 3
+  },
+  {
+    "key": "TTTTT",
+    "College": "College of Science",
+    "Course": "PHYS1156",
+    "value": 0.5
+  },
+  {
+    "key": "UUUUU",
+    "College": "College of Science",
+    "Course": "PHYS1161",
+    "value": 3.5
+  },
+  {
+    "key": "VVVVV",
+    "College": "College of Science",
+    "Course": "PHYS1162",
+    "value": 0.5
+  },
+  {
+    "key": "NNNNN",
+    "College": "College of Science",
+    "Course": "PHYS1162",
+    "value": 0.75
+  },
+  {
+    "key": "WWWWW",
+    "College": "College of Science",
+    "Course": "PHYS1162",
+    "value": 1.75
+  },
+  {
+    "key": "XXXXX",
+    "College": "College of Science",
+    "Course": "PHYS2303",
+    "value": 16.75
+  },
+  {
+    "key": "YYYYY",
+    "College": "College of Science",
+    "Course": "PHYS3602",
+    "value": 52
+  },
+  {
+    "key": "BBBBBBBB",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "POLS1150",
+    "value": 1
+  },
+  {
+    "key": "CCCCCCCC",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "POLS1155",
+    "value": 4
+  },
+  {
+    "key": "DDDDDDDD",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "POLS1160",
+    "value": 1.75
+  },
+  {
+    "key": "EEEEEEEE",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "POLS1160",
+    "value": 5.5
+  },
+  {
+    "key": "FFFFFFFF",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "PORT1101",
+    "value": 1
+  },
+  {
+    "key": "ZZZZZ",
+    "College": "College of Science",
+    "Course": "PSYC1101",
+    "value": 5
+  },
+  {
+    "key": "AAAAAA",
+    "College": "College of Science",
+    "Course": "PSYC1101",
+    "value": 3
+  },
+  {
+    "key": "BBBBBB",
+    "College": "College of Science",
+    "Course": "PSYC1101",
+    "value": 22.5
+  },
+  {
+    "key": "CCCCCC",
+    "College": "College of Science",
+    "Course": "PSYC1101",
+    "value": 5
+  },
+  {
+    "key": "DDDDDD",
+    "College": "College of Science",
+    "Course": "PSYC1101",
+    "value": 2.5
+  },
+  {
+    "key": "EEEEEE",
+    "College": "College of Science",
+    "Course": "PSYC2320",
+    "value": 2
+  },
+  {
+    "key": "FFFFFF",
+    "College": "College of Science",
+    "Course": "PSYC2320",
+    "value": 1.5
+  },
+  {
+    "key": "GGGGGG",
+    "College": "College of Science",
+    "Course": "PSYC2320",
+    "value": 6.5
+  },
+  {
+    "key": "HHHHHH",
+    "College": "College of Science",
+    "Course": "PSYC3200",
+    "value": 1
+  },
+  {
+    "key": "IIIIII",
+    "College": "College of Science",
+    "Course": "PSYC3400",
+    "value": 9.75
+  },
+  {
+    "key": "JJJJJJ",
+    "College": "College of Science",
+    "Course": "PSYC3404",
+    "value": 1
+  },
+  {
+    "key": "KKKKKK",
+    "College": "College of Science",
+    "Course": "PSYC3406",
+    "value": 1
+  },
+  {
+    "key": "LLLLLL",
+    "College": "College of Science",
+    "Course": "PSYC3406",
+    "value": 0
+  },
+  {
+    "key": "MMMMMM",
+    "College": "College of Science",
+    "Course": "PSYC3458",
+    "value": 4.75
+  },
+  {
+    "key": "DDDDDD",
+    "College": "College of Science",
+    "Course": "PSYC3458",
+    "value": 6.75
+  },
+  {
+    "key": "NNNNNN",
+    "College": "College of Science",
+    "Course": "PSYC3466",
+    "value": 6
+  },
+  {
+    "key": "EEEEEE",
+    "College": "College of Science",
+    "Course": "PSYC3466",
+    "value": 3.5
+  },
+  {
+    "key": "MMMMMM",
+    "College": "College of Science",
+    "Course": "PSYC4570",
+    "value": 2
+  },
+  {
+    "key": "GGGGGGGG",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "RSSN1101",
+    "value": 0.5
+  },
+  {
+    "key": "HHHHHHHH",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "RSSN2101",
+    "value": 11.75
+  },
+  {
+    "key": "ZZZZZZZZZZ",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "SCHM2301",
+    "value": 6.5
+  },
+  {
+    "key": "AAAAAAAAAAA",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "SCHM2301",
+    "value": 5
+  },
+  {
+    "key": "BBBBBBBBBBB",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "SCHM2301",
+    "value": 0.75
+  },
+  {
+    "key": "CCCCCCCCCCC",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "SCHM2301",
+    "value": 0.5
+  },
+  {
+    "key": "DDDDDDDDDDD",
+    "College": "D'Amore-McKim School of Business",
+    "Course": "SCHM2301",
+    "value": 18.5
+  },
+  {
+    "key": "IIIIIIII",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "SOCL1101",
+    "value": 2
+  },
+  {
+    "key": "JJJJJJJJ",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "SOCL1101",
+    "value": 1
+  },
+  {
+    "key": "FFFFFFFF",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "SPNS1102",
+    "value": 33
+  },
+  {
+    "key": "KKKKKKKK",
+    "College": "College of Social Sciences and Humanities",
+    "Course": "SPNS3102",
+    "value": 2
+  }
+ ]

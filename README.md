@@ -1,2 +1,7 @@
-# PTP_project-DS4200-
-The semester long interactive presentation and interactive visualization project of PTP organization for DS4200 Information Presentation and Visualization class. 
+# Project Template
+
+This repository is your starting point for your project code. See the project instructions on the course website.
+
+Link to your GitHub pages website: <https://neu-ds-4200-s22-students.github.io/project-g10-peertutorprogram/>
+
+
